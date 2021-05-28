@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Electronic_collection_of_books_on_programming.Autor">
+    <Position X="0.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAQAJAEgCgABQMAIACEMEAWAAgAAAAAACAAAAABABA=</HashCode>
+      <FileName>Autor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Electronic_collection_of_books_on_programming.Book">
+    <Position X="3.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>JYARAL0EiChAhSMCJA6EsP9+AHgFCBAkAKAIACIBAAg=</HashCode>
+      <FileName>Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Electronic_collection_of_books_on_programming.Language">
+    <Position X="10.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AIAQAJAAgCgABAMAIACEMEgSAAgAAACAACAAAAABAAE=</HashCode>
+      <FileName>Language.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Electronic_collection_of_books_on_programming.Main">
+    <Position X="6.75" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>BQAAAAAAASAAAAAAAACCAAYCIAAAIAEAAAAAAAAAAAQ=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Electronic_collection_of_books_on_programming.Publisher">
+    <Position X="6.75" Y="4.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAQAJAggCgABAMAJACEMEASAAgAAAAiACAAAAABAAA=</HashCode>
+      <FileName>Publisher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Electronic_collection_of_books_on_programming.Program">
+    <Position X="10.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
